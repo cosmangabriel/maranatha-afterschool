@@ -12,7 +12,7 @@ body {
   font-weight: 300;
   line-height: 1.42em;
   color:black;
-  background-color:#E2C0A9;
+  background-color:#678D7C;
 }
 
 h1 {
@@ -75,7 +75,7 @@ h2 a {
 
 /* Background-color of the odd rows */
 .container tr:nth-child(odd) {
-	  background-color: #F7EFEC;
+	  background-color: #E2C0A9;
 }
 
 /* Background-color of the even rows */
@@ -84,7 +84,7 @@ h2 a {
 }
 
 .container th {
-	  background-color: #E2C0A9;
+	  background-color: #678D7C;
 }
 
 .container td:first-child {
