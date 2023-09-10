@@ -20,7 +20,7 @@ h1 {
   font-weight: 300;
   line-height:1em;
   text-align: center;
-  color: #558474;
+  color: #C29B6C;
 }
 
 h2 {
@@ -89,6 +89,7 @@ h2 a {
 
 .container td:first-child {
 	  color: #5D917D;
+	font-weight: bold;
 }
 
 .container tr:hover {
