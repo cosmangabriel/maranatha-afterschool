@@ -122,8 +122,11 @@ h2 a {
 }
 
 .youtube-video {
-  aspect-ratio: 16 / 9;
-  width: 100%;
+      aspect-ratio: 16 / 9;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
 }
 /*	
 	End of the <Table> Responsive
