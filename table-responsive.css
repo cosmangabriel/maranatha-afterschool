@@ -41,7 +41,7 @@ h2 a {
 }
 
 .blue { color: #185875; }
-.yellow { color: #FFF842; }
+.yellow { color: #678D7C; }
 
 .container th h1 {
 	  font-weight: bold;
@@ -99,7 +99,7 @@ h2 a {
 }
 
 .container td:hover {
-  background-color: #FFF842;
+  background-color: #678D7C;
   color: #403E10;
   font-weight: bold;
   
